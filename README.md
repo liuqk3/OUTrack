@@ -68,7 +68,7 @@ ${OUTrack}/data/MOT20
 ```
 Then, you can run following command to get json style annotations:
 ```
-cd src
+cd src/tools
 python gen_json_annotations.py
 ```
 
@@ -81,7 +81,7 @@ Coming soon ...
 
 * See [mot17.sh](experiments/mot17.sh) for example. Note the commands in different bash scripts are not exactly the same with those used in the paper.
 
-Note that the `--debug` option is quite useful for debugging while training or visaulize the tracking results online! If you are in debug (i.e. `opt.debug > 0`) mode, youcan press `Esc` to stop.
+Note that the `--debug` option is quite useful for debugging while training or visaulize the tracking results online! If you are in debug (i.e. `opt.debug > 0`) mode, you can press `Esc` to stop.
 
 ## Acknowledgement
 A large part of the code is borrowed from [FairMOT](https://github.com/ifzhang/OUTrack) and [CenterTrack](https://github.com/xingyizhou/CenterTrack). Thanks for their wonderful works.
