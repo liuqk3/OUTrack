@@ -1,0 +1,14 @@
+{
+    "root": "../data",
+    "train":
+    {
+        "crowdhuman_train":"./data/crowdhuman.train",
+        "crowdhuman_test":"./data/crowdhuman.val"
+    },
+    "annotation":
+    {
+        "crowdhuman_train":"crowdhuman/annotations/train.json",
+        "crowdhuman_test":"crowdhuman/annotations/val.json",
+        "mot15":"MOT15/annotations/train.json"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "root": "../data",
+    "train":
+    {
+        "mot20":"./data/mot20.half"
+    },
+    "annotation":
+    {
+        "mot20":"MOT20/annotations/train.json"
+    }
+}
