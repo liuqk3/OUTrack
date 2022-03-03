@@ -3,7 +3,7 @@
 This is the official implementation of `Online Multi-Object Tracking with Unsupervised Re-Identification Learning and Occlusion Estimation`.
 Note that:
 * Because I am quite busy recently, the codes are prepared in a hurry, so they may look ugly.
-* The work has been done in Seqtember 2019, so some hyper-parameters maybe not the same with those in the paper.
+* The work has been done in Seqtember 2020, so some hyper-parameters maybe not the same with those in the paper.
 
 I will try to make the codes more accurate and beautiful when I am available.
 
