@@ -3,7 +3,6 @@ models
 !src/lib/models
 exp*
 data
-models
 !src/data
 DCNv2/build
 DCNv2/DCNv2.egg-info
