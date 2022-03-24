@@ -2,6 +2,7 @@
 models
 !src/lib/models
 exp*
+!experiments
 data
 !src/data
 DCNv2/build
