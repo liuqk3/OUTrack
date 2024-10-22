@@ -77,7 +77,7 @@ python gen_json_annotations.py
 Coming soon ...
 
 ## Training and Inference
-* Download DLA-34 COCO pretranined CenterNet model weight from [here](https://drive.google.com/file/d/1pl_-ael8wERdUREEnaIfqOV_VF2bEVRT/view), and put it to `OUTrack/models/ctdet_coco_dla_2x.pth`
+* Download DLA-34 COCO pretranined CenterNet model weight from [here](https://drive.google.com/file/d/18Q3fzzAsha_3Qid6mn4jcIFPeOGUaj1d/edit), and put it to `OUTrack/models/ctdet_coco_dla_2x.pth`
 
 * See [mot17.sh](experiments/mot17.sh) for example. Note the commands in different bash scripts are not exactly the same with those used in the paper.
 
